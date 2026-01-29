@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Jennifer.
-🔭 I’m currently working on web development.
-🌱 I’m currently learning Python.
+-🔭 I’m currently working on web development.
+-🌱 I’m currently learning Python.
 
 <!--
 - 🔭 I’m currently working on web development.
